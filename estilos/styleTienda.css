@@ -1,0 +1,11 @@
+.titulo {
+    background-color:rgb(85, 83, 83);
+    text-align: center;
+}
+.navegacion {
+    background-color: gray;
+    text-align: center;
+    font-size: 35px;
+    color-scheme: red;
+    color:orange;
+}
